@@ -18,6 +18,6 @@ public class TestHello{
 
 	@Test
 	public void testHelloWorld()  {
-		assertEquals(hello.getStrings(),"Hello World !!");
+		assertEquals(hello.getStrings(),"Hello World NIA !!");
 	}
 }
